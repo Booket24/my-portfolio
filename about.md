@@ -1,0 +1,1 @@
+Skills:linux,Bash Scripting
